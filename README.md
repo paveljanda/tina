@@ -1,2 +1,3 @@
-# tina
-Minimalistic Go static site server
+# tiny-fileserver
+
+Minimalistic Go static file server
